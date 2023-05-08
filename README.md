@@ -1,10 +1,10 @@
-# LJ Color Picker plugin for Craft CMS 3.x
+# LJ Color Picker plugin for Craft CMS 4.x
 
 A simple color picker for Craft CMS based on the [jQuery Spectrum plugin](https://github.com/bgrins/spectrum).
 
 ## Requirements
 
-This plugin requires Craft CMS 3.0.0 or later.
+This plugin requires Craft CMS 4.0.0 or later.
 
 ## Installation
 
