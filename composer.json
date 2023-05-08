@@ -53,5 +53,5 @@
     "prefer-stable": true,
     "require-dev": {
         "craftcms/rector": "dev-main"
-    },
+    }
 }
